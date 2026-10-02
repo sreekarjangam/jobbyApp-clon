@@ -1,0 +1,19 @@
+.not-found-container {
+  background-color: #000000;
+  color: white;
+  text-align: center;
+  padding: 80px;
+}
+
+.not-found-img {
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.not-found-heading {
+  font-size: 32px;
+}
+
+.not-found-desc {
+  font-size: 18px;
+}

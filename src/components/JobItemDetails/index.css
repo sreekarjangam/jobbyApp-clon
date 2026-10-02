@@ -1,0 +1,61 @@
+.job-item {
+  background-color: #272727;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.company-logo {
+  width: 60px;
+}
+
+.job-title {
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.job-header {
+  display: flex;
+  align-items: center;
+}
+
+.job-details {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.location {
+  margin-right: 10px;
+}
+
+.package {
+  font-weight: bold;
+}
+.job-details-container {
+  background-color: #000000;
+  color: white;
+  padding: 40px;
+}
+
+.job-details-card {
+  background-color: #272727;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.skill-item {
+  display: flex;
+  align-items: center;
+}
+
+.skill-img {
+  width: 40px;
+  margin-right: 10px;
+}

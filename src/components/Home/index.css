@@ -1,0 +1,30 @@
+.home-container {
+  background-color: #000000;
+  color: white;
+  min-height: 100vh;
+}
+
+.home-content {
+  padding: 60px;
+}
+
+.home-heading {
+  font-size: 48px;
+  max-width: 500px;
+}
+
+.home-description {
+  font-size: 18px;
+  max-width: 450px;
+  margin-top: 20px;
+}
+
+.find-jobs-btn {
+  background-color: #6366f1;
+  border: none;
+  padding: 12px 20px;
+  color: white;
+  margin-top: 20px;
+  border-radius: 6px;
+  cursor: pointer;
+}
